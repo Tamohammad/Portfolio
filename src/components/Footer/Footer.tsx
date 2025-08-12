@@ -1,8 +1,4 @@
-import {
-  AiOutlineGithub,
-  AiOutlineLinkedin,
-  AiOutlineYoutube,
-} from "react-icons/ai";
+import { AiOutlineGithub, AiOutlineLinkedin } from "react-icons/ai";
 
 function Footer() {
   const currentYear = new Date().getFullYear();
