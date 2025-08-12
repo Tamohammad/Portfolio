@@ -4,7 +4,7 @@
 
 This portfolio webpage is a personal project designed to showcase my work, projects, and professional journey. It's a simple, one-page layout with distinct sections including Hero, About, Skills, Projects, and Contact. The design, first conceptualized in Figma for both mobile and desktop modes, follows a clean and modern aesthetic. Developed using React, TypeScript, and Tailwind CSS, this site embodies a mobile-first approach and integrates Web3Forms for the contact section.
 
-### 🏠 [Demo Link](https://gustavopassarella.co.uk)
+### 🏠 [Demo Link](https://mohammad-portfolio-12.netlify.app/)
 
 ![alt text](src/assets/projects/portfolio/MAfoli.png)
 
