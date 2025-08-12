@@ -1,0 +1,94 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+	:root {
+		/* My theme */
+		--background: hsl(207 63% 6%);
+		--foreground: hsl(0 0% 100%);
+
+		--card: #101c26;
+		--card-foreground: var(--foreground);
+
+		--popover: hsl(0 0% 100%);
+		--popover-foreground: hsl(222.2 84% 4.9%);
+
+		--primary: hsl(175 84% 32%);
+		--primary-foreground: var(--foreground);
+
+		--ligher-primary: hsl(168, 34%, 56%);
+		--dark-primary: hsl(197, 67%, 18%);
+
+		--secondary: hsl(0, 100%, 65%);
+		--secondary-foreground: var(--foreground);
+
+		--muted: hsl(207, 41%, 11%);
+		--muted-foreground: hsl(197, 67%, 18%);
+
+		--skills-bg: hsl(217, 19%, 27%);
+		--project-bg: hsl(207, 41%, 11%);
+
+		--accent: hsl(0, 100%, 68%);
+		--accent-foreground: var(--foreground);
+
+		--light-accent: hsl(17, 100%, 74%);
+		--bright-pink: hsl(324, 91%, 41%);
+
+		--destructive: hsl(324, 91%, 41%);
+		--destructive-foreground: var(--foreground);
+
+		--neutral-primary: #d9d9d9;
+
+		--border: hsl(214.3 31.8% 91.4%);
+		--input: hsl(214.3 31.8% 91.4%);
+		--ring: hsl(222.2 84% 4.9%);
+
+		--radius: 0.5rem;
+
+		--gray: #6c757d;
+		--gray-dark: #343a40;
+		--light-gray: #444;
+
+		--toastify-color-success: hsl(175 84% 32%);
+	}
+
+	.dark {
+		--background: 222.2 84% 4.9%;
+		--foreground: 210 40% 98%;
+
+		--card: 222.2 84% 4.9%;
+		--card-foreground: 210 40% 98%;
+
+		--popover: 222.2 84% 4.9%;
+		--popover-foreground: 210 40% 98%;
+
+		--primary: 210 40% 98%;
+		--primary-foreground: 222.2 47.4% 11.2%;
+
+		--secondary: 217.2 32.6% 17.5%;
+		--secondary-foreground: 210 40% 98%;
+
+		--muted: 217.2 32.6% 17.5%;
+		--muted-foreground: 215 20.2% 65.1%;
+
+		--accent: 217.2 32.6% 17.5%;
+		--accent-foreground: 210 40% 98%;
+
+		--destructive: 0 62.8% 30.6%;
+		--destructive-foreground: 210 40% 98%;
+
+		--border: 217.2 32.6% 17.5%;
+		--input: 217.2 32.6% 17.5%;
+		--ring: 212.7 26.8% 83.9%;
+	}
+}
+
+@layer base {
+	* {
+		@apply border-border;
+	}
+	body {
+		@apply bg-background text-foreground;
+	}
+}
