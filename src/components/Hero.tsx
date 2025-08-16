@@ -44,7 +44,7 @@ function Hero() {
 
           <a
             target="_blank"
-            href={` https://drive.google.com/uc?export=download&id=1Z2bzFykAWWSErzo9v1WNISspTnAni6sV`}
+            href={`https://drive.google.com/uc?export=download&id=1Z2bzFykAWWSErzo9v1WNISspTnAni6sV`}
             className="text-secondary-foreground font-semibold px-6 py-3 bg-teal-700 hover:bg-primary rounded-lg shadow transition"
           >
             Download CV
