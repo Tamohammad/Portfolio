@@ -34,9 +34,11 @@ export const skillsData: SkillType[] = [
 		alt: "Backend skills gear icon",
 		skills: [
 			"JavaScript",
+			"PHP",
 			"NodeJS",
 			"ExpressJS",
 			"MongoDB",
+			"Laravel",
 			"MySQL",
 			"GraphQL",
 			"Python",

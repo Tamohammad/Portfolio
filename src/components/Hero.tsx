@@ -38,8 +38,10 @@ function Hero() {
           <p className="mt-4 mb-10 text-gray-300 md:text-lg">
             React | Redux | TypeScript | Node | Express | NextJS
             <br />
-            HTML | CSS | Sass | TailwindCSS | MySQL | MongoDB
+            HTML | CSS | Sass | TailwindCSS | Laravel | MySQL | MongoDB
+            <br />
           </p>
+
           <a
             target="_blank"
             href={` https://drive.google.com/uc?export=download&id=1Z2bzFykAWWSErzo9v1WNISspTnAni6sV`}
