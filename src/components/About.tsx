@@ -24,8 +24,8 @@ function About() {
 
           <p>
             I'm <span className="font-bold">Mohammad Ahmadi</span>, a dedicated{" "}
-            <span className="font-bold">Full-Stack JavaScript Developer</span>{" "}
-            from Afghanistan with a strong passion for technology and building
+            <span className="font-bold">Full-Stack Developer</span> from
+            Afghanistan with a strong passion for technology and building
             impactful software solutions. I specialize in the{" "}
             <span className="font-bold">MERN stack</span> and enjoy developing
             clean, scalable, and efficient applications.

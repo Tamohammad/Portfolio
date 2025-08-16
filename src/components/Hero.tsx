@@ -33,7 +33,7 @@ function Hero() {
             Hi, I'm Mohammad!
           </h1>
           <p className="font-semibold text-xl mt-4 mb-6 md:text-2xl">
-            <span className="">I'm a JavaScript Full-Stack Developer</span>
+            <span className="">I'm a Full-Stack Developer</span>
           </p>
           <p className="mt-4 mb-10 text-gray-300 md:text-lg">
             React | Redux | TypeScript | Node | Express | NextJS
