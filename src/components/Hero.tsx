@@ -36,15 +36,16 @@ function Hero() {
             <span className="">I'm a Full-Stack Developer</span>
           </p>
           <p className="mt-4 mb-10 text-gray-300 md:text-lg">
-            React | Redux | TypeScript | Node | Express | NextJS
+            React | Redux | TypeScript | Node | Express | NextJS | Python | PHP
+            | Laravel
             <br />
-            HTML | CSS | Sass | TailwindCSS | Laravel | MySQL | MongoDB
+            HTML | CSS | Sass | TailwindCSS | MySQL | MongoDB
             <br />
           </p>
 
           <a
             target="_blank"
-            href={`https://drive.google.com/uc?export=download&id=1bNn4reCujzpOeZCpKH3mbbHcP6cmsMhT`}
+            href={`https://drive.google.com/file/d/1t1xBZ4BMWlGbs7RQuIByNXW4PXMMPBI0/view?usp=drive_link`}
             className="text-secondary-foreground font-semibold px-6 py-3 bg-teal-700 hover:bg-primary rounded-lg shadow transition"
           >
             Download CV
