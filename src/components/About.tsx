@@ -23,16 +23,14 @@ function About() {
           </h2>
 
           <p>
-            I'm <span className="font-bold">Mohammad Ahmadi</span>, a passionate
-            and results-driven{" "}
-            <span className="font-bold">Full-Stack Developer</span> with{" "}
-            <span className="font-bold">
-              over 3 years of professional experience
-            </span>{" "}
-            building modern, scalable, and high-performance web applications. I
-            specialize in the <span className="font-bold">MERN stack</span> and
-            focus on writing clean, maintainable code while delivering efficient
-            and user-focused solutions.
+            I'm <span className="font-bold">Mohammad Ahmadi</span>, a motivated
+            and passionate{" "}
+            <span className="font-bold">Full-Stack Developer</span> with a
+            strong focus on building modern and user-friendly web applications.
+            I specialize in the <span className="font-bold">MERN stack</span>{" "}
+            and also have a growing interest in{" "}
+            <span className="font-bold">PHP and Laravel</span> for backend
+            development.
           </p>
           <br />
 
@@ -42,39 +40,37 @@ function About() {
               Bachelor’s degree in Computer Science
             </span>{" "}
             from <span className="font-bold">Kabul Polytechnic University</span>
-            , where I developed a strong foundation in software engineering,
-            database systems, and algorithms. My academic journey, combined with
-            hands-on experience, has enabled me to successfully design and
-            implement full-stack applications using modern JavaScript
-            technologies.
+            , where I built a solid foundation in software engineering,
+            databases, and web development. Alongside my academic studies, I
+            have worked on multiple hands-on projects that strengthened my
+            technical and problem-solving skills.
           </p>
           <br />
 
           <p>
-            Throughout my career, I have worked as a Full-Stack Developer at{" "}
-            <span className="font-bold">Akramzadeh Group</span> and{" "}
-            <span className="font-bold">Winsoft Technology</span>, where I
-            contributed to developing robust web applications, integrating
-            RESTful APIs, and optimizing system performance. I also completed a
-            professional internship in{" "}
-            <span className="font-bold">React.js</span> at{" "}
-            <span className="font-bold">Afghan Tech Hub</span>, further
-            strengthening my front-end development expertise.
-          </p>
-
-          <br />
-
-          <p>
-            Based in Afghanistan, I am{" "}
+            I have practical experience developing full-stack applications using{" "}
             <span className="font-bold">
-              open to both remote and on-site opportunities
+              React.js, Node.js, Express.js, MongoDB, and MySQL
             </span>
-            . I am highly motivated to collaborate with innovative teams,
-            continuously grow my skill set, and contribute to impactful and
-            meaningful projects.
+            . I have also explored{" "}
+            <span className="font-bold">Laravel and PHP</span> and understand
+            their role in building scalable backend systems. My projects include
+            an Inventory Management System and API-based applications where I
+            applied clean code practices and modern UI/UX design principles.
+          </p>
+
+          <br />
+
+          <p>
+            I am currently seeking an{" "}
+            <span className="font-bold">internship opportunity</span> where I
+            can contribute to real-world projects, collaborate with experienced
+            teams, and continue expanding my skills in both JavaScript and PHP
+            ecosystems. I am highly motivated, fast-learning, and eager to grow
+            in a professional environment.
             <br />
-            If you're looking for a dedicated developer who combines technical
-            expertise with a strong work ethic, feel free to{" "}
+            If you're looking for a dedicated and enthusiastic developer, feel
+            free to{" "}
             <ScrollLink
               smooth={true}
               offset={-100}

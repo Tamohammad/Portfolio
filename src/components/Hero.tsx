@@ -33,19 +33,19 @@ function Hero() {
             Hi, I'm Mohammad!
           </h1>
           <p className="font-semibold text-xl mt-4 mb-6 md:text-2xl">
-            <span className="">I'm a Full-Stack Developer</span>
+            <span>
+              Full-Stack Developer Intern | MERN Stack & Laravel Enthusiast
+            </span>
           </p>
           <p className="mt-4 mb-10 text-gray-300 md:text-lg">
-            React | Redux | TypeScript | Node | Express | NextJS | Python | PHP
-            | Laravel
-            <br />
-            HTML | CSS | Sass | TailwindCSS | MySQL | MongoDB
-            <br />
+            React | Node.js | Express | MongoDB | MySQL <br />
+            JavaScript | TypeScript | PHP | Laravel <br />
+            HTML | CSS | TailwindCSS | REST APIs
           </p>
 
           <a
             target="_blank"
-            href={`https://drive.google.com/file/d/1t1xBZ4BMWlGbs7RQuIByNXW4PXMMPBI0/view?usp=drive_link`}
+            href="https://drive.google.com/file/d/1kzE1d2sIcFdjUOfgmdiT47DL78QY3UVO/view?usp=drive_link"
             className="text-secondary-foreground font-semibold px-6 py-3 bg-teal-700 hover:bg-primary rounded-lg shadow transition"
           >
             Download CV
